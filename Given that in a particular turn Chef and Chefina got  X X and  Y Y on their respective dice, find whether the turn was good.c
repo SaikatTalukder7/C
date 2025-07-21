@@ -3,6 +3,7 @@
 //They consider a turn to be good if the sum of the numbers on their dice is greater than 6
 
 
+
 #include <stdio.h>
 int main() 
 {
