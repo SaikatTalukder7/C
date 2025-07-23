@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main ()
 {
     int n = 4;
@@ -8,7 +9,9 @@ int main ()
             printf("*");
             printf("\n");
     }
+    
     return 0;
+    
 }
 
 
