@@ -18,7 +18,6 @@ int main() {
         }
         i++;
     }
-
     printf("YES");
     return 0;
 }
