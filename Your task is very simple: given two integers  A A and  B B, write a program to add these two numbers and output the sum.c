@@ -11,7 +11,6 @@ int main() {
         // Output the sum of A and B
         printf("%d\n", A + B);
     }
-    
     return 0;
 }
 
