@@ -1,8 +1,5 @@
 //Chef and Chefina are playing with dice. In one turn, both of them roll their dice at once
-
 //They consider a turn to be good if the sum of the numbers on their dice is greater than 6
-
-
 
 #include <stdio.h>
 int main() 
