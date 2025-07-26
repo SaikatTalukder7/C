@@ -6,7 +6,6 @@
 int main() {
     int num, i = 2;
     scanf("%d", &num);
-
     if (num <= 1) {
         printf("NO");
         return 0;
