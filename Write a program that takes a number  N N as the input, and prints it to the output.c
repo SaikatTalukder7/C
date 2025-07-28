@@ -5,4 +5,5 @@ int main(void) {
     scanf("%d",&n);
     printf("%d",n);
     return 0;
+    
 }
